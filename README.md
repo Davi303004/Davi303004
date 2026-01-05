@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0e76b3&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&duration=3000&lines=Hello+World!;My+name's+Davi+D'Avila;I'm+a+Computer+Science+Student;And+a+Full-Stack+Developer🖥️)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0e76b3&size=35&center=true&vCenter=true&width=1000&duration=3000&lines=Hello+World!;My+name's+Davi+D'Avila;I'm+a+Computer+Science+Student;And+a+Full-Stack+Developer🖥️)](https://git.io/typing-svg)
 
 
 ## Sobre Mim
