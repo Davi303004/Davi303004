@@ -1,16 +1,54 @@
-## Hi there 👋
+<h1 align ="center">Hello World, I'm Davi D'Avila!</h1> 
 
-<!--
-**Davi303004/Davi303004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
+-🎓 Estudante de **Ciência da Computação** (5/8)
+- 💻 Desenvolvedor em formação com foco em **Dados / BI**,**Back-end** e **Desenvolvimento WEB**
+- 📈 Comprometido em solucionar problemas com tecnologia
+- 📚 Atualmente estudando integração e automação em Python
+---
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias & Ferramentas
+**Linguagens**
+- Python
+- C#
+- SQL
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Dados & BI**
+- Pandas | NumPy | Matplotlib | SQLAlchemy
+- Power BI | Excel Avançado
+- MySQL
+
+**Back-end / Web**
+- Flask
+- APIs REST
+- Angular (básico)
+- Git & GitHub
+
+---
+
+## 📌 Projetos em Destaque
+🔹 **Projetos de Análise de Dados em Python utilizando Google Colab**  
+Aplicação ETL, lógica matemática, dashboards e muito mais.  
+👉 *Python, SQLite, Pandas e SQLAlchemy*
+
+🔹 **Jogo de Paciência (C# / POO)**  
+Implementação completa utilizando programação orientada a objetos.  
+👉 *C#, OOP, Lógica de Jogos*
+
+*(Confira os repositórios abaixo ⬇️)*
+
+---
+
+## 🌍 Idiomas
+- Português: Nativo
+- Inglês: Avançado (C1)
+
+---
+
+## 📫 Como me encontrar
+- 💼 LinkedIn: [https://www.linkedin.com/in/davi-dias-davila-50b25a378/](https://linkedin.com)
+
+---
+
+⭐ Fique à vontade para explorar meus repositórios!
