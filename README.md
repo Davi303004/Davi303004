@@ -1,4 +1,4 @@
-<h1 align ="center">Hello World, I'm Davi D'Avila!</h1> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=#0e76b3&size=35&center=true&vCenter=true&width=1000&duration=3000&lines=Hello+World!;I'm+Davi+Dias+D'Avila;I'm+a+Computer+Science+Student;And+a+Full-Stack+Developer🖥️)](https://git.io/typing-svg)
 
 ## Sobre Mim
 -🎓 Estudante de **Ciência da Computação** (5/8)
