@@ -4,7 +4,7 @@
 
 
 ## Sobre Mim
--🎓 Estudante de **Ciência da Computação** (5/8)
+- 🎓 Estudante de **Ciência da Computação** (5/8)
 - 💻 Desenvolvedor em formação com foco em **Dados / BI**,**Back-end** e **Desenvolvimento WEB**
 - 📈 Comprometido em solucionar problemas com tecnologia
 - 📚 Atualmente estudando integração e automação em Python
@@ -18,9 +18,9 @@
 - JavaScript
 
 **Dados & BI**
-- Pandas | NumPy | Matplotlib | SQLAlchemy
+- Pandas | NumPy | Matplotlib | SQLAlchemy | BeautifulSoup
 - Power BI | Excel Avançado
-- MySQL
+- MySQL | SQLite
 
 **Back-end / Web**
 - Flask
